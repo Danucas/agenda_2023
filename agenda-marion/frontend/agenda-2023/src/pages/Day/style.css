@@ -1,0 +1,101 @@
+.day-container h2 {
+    margin-top: 80px;
+    font-size: 56px;
+    width: 100vw;
+    text-align: center;
+    font-weight: 500 !important;
+    color: rgb(186, 136, 70);
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.astro-data {
+    display: grid;
+    grid-template-columns: repeat(2, 46vw);
+    text-align: center;
+}
+
+.astro-data p {
+    text-align: left;
+    height: 60px;
+    padding-left: 60px;
+    word-wrap: normal;
+    font-size: 28px;
+    text-transform: uppercase;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.banner-1 {
+    background-image: url("/public/assets/images/text-banner-1.svg");
+    background-size: 96% 8vh;
+    background-repeat: no-repeat;
+    background-position: -120px 4px;
+}
+.day-sections {
+    display: grid;
+    margin-top: 24px;
+    grid-template-columns: repeat(2, 48vw);
+}
+
+.hours-schedule {
+    padding: 24px 24px;
+}
+
+.hours-schedule li {
+    list-style: none;
+    margin: 4px 12px;
+    font-size: 18px;
+    background-color: rgba(250, 235, 215, 0);
+    padding: 4px 12px;
+    font-family: 'Lexend Deca', sans-serif;
+    border-bottom: 1px solid rgba(59, 59, 59, 0.381);
+    font-weight: lighter;
+}
+
+.hours-schedule li:active {
+    color: gray;
+}
+
+.mood-meter {
+    padding: 12px 12px;
+}
+
+.mood-meter h3 {
+    font-size: 28px;
+}
+
+.mood-meter p {
+    font-size: 28px;
+    background-color: antiquewhite;
+    padding: 12px 12px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.priorities ul {
+    padding: 0;
+    margin: 0;
+}
+
+.priorities li {
+    list-style: none;
+    padding: 8px 12px;
+    background-color: antiquewhite;
+    margin: 8px 0px;
+    font-size: 18px;
+}
+
+.todo ul {
+    padding: 12px 20px;
+}
+.todo li {
+    margin-top: 8px;
+    font-size: 18px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.384);
+}
+
+.priorities span, .todo span {
+    color: rgb(251, 217, 172);
+}
+
+.priorities span:active, .todo span:active {
+    color: rgb(255, 145, 0);
+}

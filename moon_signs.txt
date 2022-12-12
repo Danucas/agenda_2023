@@ -1,0 +1,483 @@
+Dhanu Dhanu
+January 1, 2022, Saturday at 08:47
+1
+Makara Makara
+January 3, 2022, Monday at 08:22
+2
+Kumbha Kumbha
+January 5, 2022, Wednesday at 09:23
+3
+Meena Meena
+January 7, 2022, Friday at 13:45
+4
+Mesha Mesha
+January 9, 2022, Sunday at 22:19
+5
+Vrishabha Vrishabha
+January 12, 2022, Wednesday at 10:15
+6
+Mithuna Mithuna
+January 14, 2022, Friday at 23:21
+7
+Karka Karka
+January 17, 2022, Monday at 11:32
+8
+Simha Simha
+January 19, 2022, Wednesday at 21:54
+9
+Kanya Kanya
+January 22, 2022, Saturday at 06:18
+10
+Tula Tula
+January 24, 2022, Monday at 12:38
+11
+Vrishchika Vrishchika
+January 26, 2022, Wednesday at 16:42
+12
+Dhanu Dhanu
+January 28, 2022, Friday at 18:37
+13
+Makara Makara
+January 30, 2022, Sunday at 19:15
+14
+Kumbha Kumbha
+February 1, 2022, Tuesday at 20:15
+15
+Meena Meena
+February 3, 2022, Thursday at 23:32
+16
+Mesha Mesha
+February 6, 2022, Sunday at 06:39
+17
+Vrishabha Vrishabha
+February 8, 2022, Tuesday at 17:39
+18
+Mithuna Mithuna
+February 11, 2022, Friday at 06:35
+19
+Karka Karka
+February 13, 2022, Sunday at 18:49
+20
+Simha Simha
+February 16, 2022, Wednesday at 04:43
+21
+Kanya Kanya
+February 18, 2022, Friday at 12:16
+22
+Tula Tula
+February 20, 2022, Sunday at 18:01
+23
+Vrishchika Vrishchika
+February 22, 2022, Tuesday at 22:25
+24
+Dhanu Dhanu
+February 25, 2022, Friday at 01:37
+25
+Makara Makara
+February 27, 2022, Sunday at 03:52
+26
+Kumbha Kumbha
+March 1, 2022, Tuesday at 06:01
+27
+Meena Meena
+March 3, 2022, Thursday at 09:33
+28
+Mesha Mesha
+March 5, 2022, Saturday at 15:59
+29
+Vrishabha Vrishabha
+March 8, 2022, Tuesday at 02:00
+30
+Mithuna Mithuna
+March 10, 2022, Thursday at 14:33
+31
+Karka Karka
+March 13, 2022, Sunday at 03:00
+32
+Simha Simha
+March 15, 2022, Tuesday at 13:03
+33
+Kanya Kanya
+March 17, 2022, Thursday at 20:02
+34
+Tula Tula
+March 20, 2022, Sunday at 00:40
+35
+Vrishchika Vrishchika
+March 22, 2022, Tuesday at 04:03
+36
+Dhanu Dhanu
+March 24, 2022, Thursday at 06:59
+37
+Makara Makara
+March 26, 2022, Saturday at 09:58
+38
+Kumbha Kumbha
+March 28, 2022, Monday at 13:24
+39
+Meena Meena
+March 30, 2022, Wednesday at 18:02
+40
+Mesha Mesha
+April 2, 2022, Saturday at 00:51
+41
+Vrishabha Vrishabha
+April 4, 2022, Monday at 10:31
+42
+Mithuna Mithuna
+April 6, 2022, Wednesday at 22:39
+43
+Karka Karka
+April 9, 2022, Saturday at 11:21
+44
+Simha Simha
+April 11, 2022, Monday at 22:04
+45
+Kanya Kanya
+April 14, 2022, Thursday at 05:24
+46
+Tula Tula
+April 16, 2022, Saturday at 09:31
+47
+Vrishchika Vrishchika
+April 18, 2022, Monday at 11:38
+48
+Dhanu Dhanu
+April 20, 2022, Wednesday at 13:11
+49
+Makara Makara
+April 22, 2022, Friday at 15:22
+50
+Kumbha Kumbha
+April 24, 2022, Sunday at 18:59
+51
+Meena Meena
+April 27, 2022, Wednesday at 00:30
+52
+Mesha Mesha
+April 29, 2022, Friday at 08:12
+53
+Vrishabha Vrishabha
+May 1, 2022, Sunday at 18:14
+54
+Mithuna Mithuna
+May 4, 2022, Wednesday at 06:16
+55
+Karka Karka
+May 6, 2022, Friday at 19:04
+56
+Simha Simha
+May 9, 2022, Monday at 06:37
+57
+Kanya Kanya
+May 11, 2022, Wednesday at 15:02
+58
+Tula Tula
+May 13, 2022, Friday at 19:42
+59
+Vrishchika Vrishchika
+May 15, 2022, Sunday at 21:23
+60
+Dhanu Dhanu
+May 17, 2022, Tuesday at 21:39
+61
+Makara Makara
+May 19, 2022, Thursday at 22:15
+62
+Kumbha Kumbha
+May 22, 2022, Sunday at 00:42
+63
+Meena Meena
+May 24, 2022, Tuesday at 05:57
+64
+Mesha Mesha
+May 26, 2022, Thursday at 14:08
+65
+Vrishabha Vrishabha
+May 29, 2022, Sunday at 00:45
+66
+Mithuna Mithuna
+May 31, 2022, Tuesday at 13:00
+67
+Karka Karka
+June 3, 2022, Friday at 01:50
+68
+Simha Simha
+June 5, 2022, Sunday at 13:55
+69
+Kanya Kanya
+June 7, 2022, Tuesday at 23:34
+70
+Tula Tula
+June 10, 2022, Friday at 05:36
+71
+Vrishchika Vrishchika
+June 12, 2022, Sunday at 08:03
+72
+Dhanu Dhanu
+June 14, 2022, Tuesday at 08:02
+73
+Makara Makara
+June 16, 2022, Thursday at 07:25
+74
+Kumbha Kumbha
+June 18, 2022, Saturday at 08:12
+75
+Meena Meena
+June 20, 2022, Monday at 12:05
+76
+Mesha Mesha
+June 22, 2022, Wednesday at 19:44
+77
+Vrishabha Vrishabha
+June 25, 2022, Saturday at 06:32
+78
+Mithuna Mithuna
+June 27, 2022, Monday at 19:03
+79
+Karka Karka
+June 30, 2022, Thursday at 07:53
+80
+Simha Simha
+July 2, 2022, Saturday at 20:00
+81
+Kanya Kanya
+July 5, 2022, Tuesday at 06:22
+82
+Tula Tula
+July 7, 2022, Thursday at 13:51
+83
+Vrishchika Vrishchika
+July 9, 2022, Saturday at 17:51
+84
+Dhanu Dhanu
+July 11, 2022, Monday at 18:45
+85
+Makara Makara
+July 13, 2022, Wednesday at 18:02
+86
+Kumbha Kumbha
+July 15, 2022, Friday at 17:47
+87
+Meena Meena
+July 17, 2022, Sunday at 20:04
+88
+Mesha Mesha
+July 20, 2022, Wednesday at 02:20
+89
+Vrishabha Vrishabha
+July 22, 2022, Friday at 12:31
+90
+Mithuna Mithuna
+July 25, 2022, Monday at 01:02
+91
+Karka Karka
+July 27, 2022, Wednesday at 13:52
+92
+Simha Simha
+July 30, 2022, Saturday at 01:42
+93
+Kanya Kanya
+August 1, 2022, Monday at 11:59
+94
+Tula Tula
+August 3, 2022, Wednesday at 20:09
+95
+Vrishchika Vrishchika
+August 6, 2022, Saturday at 01:36
+96
+Dhanu Dhanu
+August 8, 2022, Monday at 04:07
+97
+Makara Makara
+August 10, 2022, Wednesday at 04:28
+98
+Kumbha Kumbha
+August 12, 2022, Friday at 04:19
+99
+Meena Meena
+August 14, 2022, Sunday at 05:45
+100
+Mesha Mesha
+August 16, 2022, Tuesday at 10:36
+101
+Vrishabha Vrishabha
+August 18, 2022, Thursday at 19:36
+102
+Mithuna Mithuna
+August 21, 2022, Sunday at 07:39
+103
+Karka Karka
+August 23, 2022, Tuesday at 20:26
+104
+Simha Simha
+August 26, 2022, Friday at 08:02
+105
+Kanya Kanya
+August 28, 2022, Sunday at 17:45
+106
+Tula Tula
+August 31, 2022, Wednesday at 01:33
+107
+Vrishchika Vrishchika
+September 2, 2022, Friday at 07:25
+108
+Dhanu Dhanu
+September 4, 2022, Sunday at 11:12
+109
+Makara Makara
+September 6, 2022, Tuesday at 13:08
+110
+Kumbha Kumbha
+September 8, 2022, Thursday at 14:09
+111
+Meena Meena
+September 10, 2022, Saturday at 15:53
+112
+Mesha Mesha
+September 12, 2022, Monday at 20:05
+113
+Vrishabha Vrishabha
+September 15, 2022, Thursday at 03:58
+114
+Mithuna Mithuna
+September 17, 2022, Saturday at 15:13
+115
+Karka Karka
+September 20, 2022, Tuesday at 03:53
+116
+Simha Simha
+September 22, 2022, Thursday at 15:33
+117
+Kanya Kanya
+September 25, 2022, Sunday at 00:52
+118
+Tula Tula
+September 27, 2022, Tuesday at 07:48
+119
+Vrishchika Vrishchika
+September 29, 2022, Thursday at 12:54
+120
+Dhanu Dhanu
+October 1, 2022, Saturday at 16:41
+121
+Makara Makara
+October 3, 2022, Monday at 19:31
+122
+Kumbha Kumbha
+October 5, 2022, Wednesday at 21:57
+123
+Meena Meena
+October 8, 2022, Saturday at 00:53
+124
+Mesha Mesha
+October 10, 2022, Monday at 05:31
+125
+Vrishabha Vrishabha
+October 12, 2022, Wednesday at 12:59
+126
+Mithuna Mithuna
+October 14, 2022, Friday at 23:31
+127
+Karka Karka
+October 17, 2022, Monday at 11:58
+128
+Simha Simha
+October 20, 2022, Thursday at 00:00
+129
+Kanya Kanya
+October 22, 2022, Saturday at 09:34
+130
+Tula Tula
+October 24, 2022, Monday at 16:03
+131
+Vrishchika Vrishchika
+October 26, 2022, Wednesday at 20:00
+132
+Dhanu Dhanu
+October 28, 2022, Friday at 22:35
+133
+Makara Makara
+October 31, 2022, Monday at 00:53
+134
+Kumbha Kumbha
+November 2, 2022, Wednesday at 03:46
+135
+Meena Meena
+November 4, 2022, Friday at 07:49
+136
+Mesha Mesha
+November 6, 2022, Sunday at 13:34
+137
+Vrishabha Vrishabha
+November 8, 2022, Tuesday at 21:28
+138
+Mithuna Mithuna
+November 11, 2022, Friday at 07:47
+139
+Karka Karka
+November 13, 2022, Sunday at 20:00
+140
+Simha Simha
+November 16, 2022, Wednesday at 08:28
+141
+Kanya Kanya
+November 18, 2022, Friday at 18:58
+142
+Tula Tula
+November 21, 2022, Monday at 02:00
+143
+Vrishchika Vrishchika
+November 23, 2022, Wednesday at 05:33
+144
+Dhanu Dhanu
+November 25, 2022, Friday at 06:51
+145
+Makara Makara
+November 27, 2022, Sunday at 07:34
+146
+Kumbha Kumbha
+November 29, 2022, Tuesday at 09:21
+147
+Meena Meena
+December 1, 2022, Thursday at 13:17
+148
+Mesha Mesha
+December 3, 2022, Saturday at 19:46
+149
+Vrishabha Vrishabha
+December 6, 2022, Tuesday at 04:33
+150
+Mithuna Mithuna
+December 8, 2022, Thursday at 15:14, Moon is transiting in Mithuna Rashi
+151
+Karka Karka
+December 11, 2022, Sunday at 03:21
+152
+Simha Simha
+December 13, 2022, Tuesday at 16:02
+153
+Kanya Kanya
+December 16, 2022, Friday at 03:34
+154
+Tula Tula
+December 18, 2022, Sunday at 12:00
+155
+Vrishchika Vrishchika
+December 20, 2022, Tuesday at 16:27
+156
+Dhanu Dhanu
+December 22, 2022, Thursday at 17:32
+157
+Makara Makara
+December 24, 2022, Saturday at 17:01
+158
+Kumbha Kumbha
+December 26, 2022, Monday at 17:00
+159
+Meena Meena
+December 28, 2022, Wednesday at 19:25
+160
+Mesha Mesha
+December 31, 2022, Saturday at 01:16
+161

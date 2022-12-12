@@ -1,0 +1,55 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.main-container {
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  padding-bottom: 200px;
+}
+
+.main-container img, .main-container a {
+  width: 100vw;
+  height: 100vh;
+}
+
+.cover-main-container img, .cover-main-container a {
+  width: 100vw;
+  height: 100vh;
+}
+
+@keyframes fadeCover {
+  0% {opacity: 0;}
+  40% {opacity: 1;}
+  80% {opacity: 1;}
+  100% {opacity: 0;}
+}
+
+.main-container img {
+  opacity: 0;
+  animation-name: fadeCover;
+  animation-duration: 4.3s;
+  animation-iteration-count: 1;
+}
+
+.img-return {
+  opacity: 1 !important;
+  width: 40px !important;
+  height: 40px !important;
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  animation-name: none !important;
+}
